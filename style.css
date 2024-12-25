@@ -1,0 +1,12 @@
+@media(max-width:500px){
+    .content {
+        flex-direction: column;
+    }
+    .phones{
+        flex-direction: column;
+    }
+    .laptops{
+        flex-direction: column;
+    }
+
+}
